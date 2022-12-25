@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/2048.fire",orientation:"portrait",jsList:["assets/Script/SonarFrameworks.ea8d3.js"],bundleVers:{internal:"d0832",main:"3f2b6"}};
